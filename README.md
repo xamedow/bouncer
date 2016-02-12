@@ -1,2 +1,2 @@
 # bouncer
-mini pure js plugin for detecting 
+	mini plugin for detecting viewport position 
